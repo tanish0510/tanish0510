@@ -1,5 +1,6 @@
 # 💫 About Me:
-Technology Stack<br>- Data structures and Analysis of Algorithms (DSA + DAA) <br>- Python Development and Cloud Integrations<br>- Amazon Web Services (AWS) <br>- Big Data Technologies and Analytics<br>- Database<br>- Software Engineering and Project Management<br>- Advanced Analytics and Machine Learning
+
+Areas of Expertisek<br>- Data structures and Analysis of Algorithms (DSA + DAA) <br>- Python Development and Cloud Integrations<br>- Amazon Web Services (AWS) <br>- Big Data Technologies and Analytics<br>- Database<br>Gen AI and Prompting<br>- Software Engineering and Project Management<br>- Advanced Analytics and Machine Learning
 
 
 ## 🌐 Socials:
